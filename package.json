@@ -1,0 +1,16 @@
+{
+  "name": "cypress_part_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:dash": "cypress run --record --key 576ce7b6-8efb-457f-b88e-6eede6f003c3"
+  },
+  "keywords": [],
+  "author": "alexander",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.7.0",
+    "eslint": "^8.23.0"
+  }
+}
